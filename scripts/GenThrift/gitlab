@@ -1,0 +1,12 @@
+gitlab3                   - GitLab API v3 Python Wrapper.
+django-gitlab-logging     - A logging handler that opens GitLab issues on server error.
+pyapi-gitlab              - Gitlab API wrapper for Gitlab 7.X
+python-gitlab             - Interact with GitLab API
+GitGitlab                 - gitlab for git
+git-spindle               - Git subcommands for integrating with central services like github, gitlab and bitbucket
+buildbot-gitlab           - Enhances a BuildBot installation to nicely integrate with GitLab
+github2gitlab             - command line tool to migrate projects from GitHub to GitLab
+git-lab                   - sub-command of git for access to gitlab
+glhooks                   - Service for automatic updating of git repositories from GitLab.
+xGitGitlab                - gitlab for git
+gitlabhookcatcher         - Webhooks handlers for gitlab

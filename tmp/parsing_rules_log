@@ -1,0 +1,21 @@
+# The start of the tests
+start /---== Start testing. ==---/
+
+# list of warnings here...
+warning /[Ww]arning/
+warning /WARNING/
+warning /warning!/
+
+# match line starting with 'error ', case-insensitive
+error /(?i)^error /
+error /Error:/
+error /AssertionError:/
+error /Traceback stack:/
+error /ERROR/
+error /FAIL/
+
+# info
+info /== Preparing the test environment ==/
+info /---== Start testing. ==---/
+info / The test TearDown /
+info /== Run Test ==/

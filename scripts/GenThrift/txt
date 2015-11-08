@@ -1,0 +1,773 @@
+gitremote                 - python sugar module&script for git remote(s)
+
+
+
+
+
+
+
+
+
+infi.projector            - Python, git-flow based project management tool
+salsita-gitflow           - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+dlipower                  - Control digital loggers web power switch
+
+
+RhodeCode                 - RhodeCode is a fast and powerful management tool for Mercurial and GIT with a built in push/pull server, full text search and code-review.
+gitomatic                 - Git management tool
+
+
+
+dulwich                   - Python Git Library
+vcstools                  - VCS/SCM source control library for svn, git, hg, and bzr
+
+
+scc                       - OME tools for managing the git(hub) workflow
+
+hgdistver                 - utility to generate python package version infos from mercurial/git tags
+elastic-git               - JSON Object storage backed by Git & Elastic Search
+fourdigits.portlet.twitter - Twitter portlet with multi search, filter, language                  filter functionality and number limiter
+git-review                - Tool to submit code to Gerrit
+flowlib                   - Build your own git flow!
+skiff                     - Python library for DigitalOcean's v2 API
+dealer                    - Dealer -- SCM (Git, Mercurial) watcher
+pygit2                    - Python bindings for libgit2.
+
+dio                       - Python API for DigitalOcean v2.0 REST API
+
+
+
+gitifyhg                  - Use git as client for hg repos
+hg-git                    - 
+hub                       - git-hub and hub were renamed to git-spindle
+
+venvgit2                  - Install libgit2 and pygit2 in a virtualenv
+checkoutmanager           - Gives you overview and control over your git/hg/bzr/svn checkouts/clones.
+reposmon                  - Monitor a git repository, execute a command when it changes. Basically a polling git-hook for pull.
+webdiff                   - Two-column web-based git difftool
+
+
+realms-wiki               - Simple git based wiki
+
+gitgate                   - Dead simple gatekeeping code review for Git
+microdrop                 - Microdrop is a graphical user interface for the DropBot Digital Microfluidics control system
+
+
+
+
+git-up                    - A python implementation of 'git up'
+pyolite                   - Python wrapper for gitolite
+syncloud-gitbucket-ctl    - GitBucket control command line tool
+eulfedora                 - Idiomatic access to digital objects in a Fedora Commons repository
+
+polished                  - Generates screenshots of a website based on git history
+zerokspot.recipe.git      - Simple zc.buildout recipe for sources in a git repository
+pyDGS                     - wavelet-based digital grain size analysis
+
+Dolly                     - Dolly manages multiple git and svn repos
+fabdeploit                - fabric utilities for git based deployments
+juju-docean               - Digital Ocean integration with juju
+vimpyre                   - Vim Scripts Manager (use pathogen, git, and python!)
+gitlab3                   - GitLab API v3 Python Wrapper.
+gitbuster                 - Python Qt4 frontend for git filter-branch and git cherry-pick.
+klaus                     - The first Git web viewer that Just Works™.
+
+kegberry                  - Kegberry turns a Raspberry Pi into a keg monitor and digital taplist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+jig                       - Check your code for stuff before you `git commit`
+
+
+unicore-gitmodels         - Definition of models used for python-gitmodel
+
+TrebuchetTrigger          - An extendable git interface to trebuchet.
+legit                     - Git for Humans.
+
+GitPython                 - Python Git Library
+pyisbn                    - pyisbn - A module for working with 10- and 13-digit ISBNs
+
+niteoweb.click2sell       - Integrates click2sell digital products retailer system with Plone for paid memberships.
+git-pre-commit-hook       - pre-commit hook for Git
+sapling                   - A git porcelain to manage bidirectional subtree syncing with foreign git repositories
+
+captainhook               - A collection of git commit hooks
+
+GDM                       - A very basic language-agnostic "dependency manager" using Git.
+git-svn-helpers           - Command-line tools to make git-svn simple
+gitless                   - A version control system built on top of Git
+gitdb                     - Git Object Database
+patience                  - A command line tool for managing multiple git repositories.
+
+WSGIT                     - WSGI Server on TCP
+
+attowiki                  - small wiki engine based on static reST files in a directory and git for versionning
+
+C3PO                      - C3PO is Python module responsible for converting all .po files from locale directory into one .ods
+file and sending it to the Google Docs (spreadsheet link provided by user), so users with access to that spreadsheet
+can translate expression included there.
+
+This module provides Communicator which deals with uploading, downloading these translations and synchronizing whole
+content by merging it. Package contains basic methods for converting po files into csv, ods formats and back. It also
+provides methods for git push and git checkout po files into repository.
+pyapi-gitlab              - Gitlab API wrapper for Gitlab 7.X
+
+pyocean                   - Digital Ocean API
+
+dop                       - A Python client for the Digital Ocean API
+setuptools-git            - Setuptools revision control system plugin for Git
+
+
+
+gitter                    - Improved command line interface for git
+
+devflow                   - A set of tools to ease versioning and use of git flow.
+homekeeper                - Homekeeper can version your dotfiles with Git.
+git-up-all                - Run git-up trough a json list of repos
+git-bigstore              - Track big files with Git.
+brasil.gov.portal         - Implementação Modelo da Identidade Digital de Governo
+plypatch                  - Ply: Git-based Patch Management
+
+tmuxipy                   - Manage Tmux sessions legitly
+gitpylib                  - A Python library for Git
+gitctl                    - A particular Git workflow implementation with a development/staging/production code-flow model and support for multiple repositories as part of a larger project.
+
+gitinit                   - Initiates git with gitignore for provided language
+sphinx-git                - git Changelog for Sphinx
+dopy                      - Python client for the Digital Ocean API
+git-recipe                - Simple buildout recipe for downloading git repositories. It uses system git command and its syntax
+
+
+
+
+tiddlywebplugins.gitstore - TiddlyWeb store implementation using Git
+
+
+GitGitlab                 - gitlab for git
+python-gitlab             - Interact with GitLab API
+
+bzr-git                   - Support for Git branches in Bazaar
+git-pylint-commit-hook    - Git commit hook that checks Python files with pylint
+bagit_profile             - This module can be used to validate BagitProfiles.
+
+
+trac-GitolitePlugin       - two-way integration between trac and gitolite
+dosa                      - Python wrapper for Digital Ocean API V2
+bushy                     - A git workflow plugin.
+
+gitchangelog              - gitchangelog generates a changelog thanks to git log.
+
+
+
+vcspull                   - Mass update git, hg and svn repos simultaneously from YAML / JSON file.
+doc2git                   - Helper to commit generated documents to git
+
+synkie                    - Synkie watches git repositories, committing and pushing changes automatically
+dodo                      - DigitalOcean Library and Command Line tools
+Gitissius                 - Distributed bug tracking for Git.
+
+koality_cli               - Koality client wrapper for git and hg
+
+Hillup                    - Retrieves and prepares digital elevation data for rendering as map tiles.
+
+smmap                     - A pure git implementation of a sliding window memory map manager
+gitdiscribe               - Derives version numbers from git tags.
+gitfs                     - Version controlled file system.
+Hammertime                - Time tracking with git.
+
+
+
+
+noaadem                   - A python library that simplify the access to the NOAA digitalelevation map.
+
+
+
+git-qdiff                 - Bzr tool's qdiff for git
+PyGitFoo                  - Git wrapper written in python.
+LRSignature               - Learning Registry resource data digital signature management
+gitticket                 - Git and issue tracking system integration
+
+gittle                    - A high level pure python git implementation
+git-play                  - Git-play is a custom git command for deploying an application server very easily from a remote git repository. It checks the remote git repository every minute and if something has changed, it will restart the application server automatically.
+
+
+
+
+
+git_code_debt             - A dashboard for monitoring code debt in a git repository.
+docc                      - Digital Ocean Command Center
+geocommit                 - Geolocation for git
+
+
+logit-safe                - A private log for humans
+git2json                  - Convert git logs to JSON for easier analysis.
+gitime                    - Build an invoice with your tasks and hours worked from your commit messages
+
+tenxer_pivotal_git_hooks  - Automate Pivotal usage with git hooks
+
+
+niteoweb.clickbank        - Integrates ClickBank digital products retailer system with Plone for paid memberships.
+git_warden                - Batch Git repository manager
+subzilla                  - Subzilla will post a patch from a Subversion tree to a Bugzilla 3.0 bug, or apply a patch from a Bugzilla bug to a Subversion tree.  As of 0.3, git repositories will also work.
+
+
+infi.git_mirror           - A simple console script for mirroring git repositories between two remotes.
+stations2playlist         - Create a playlist with all stations of a radio such as SKY.FM, Digitally Imported, JazzRadio and RockRadio
+gittar                    - The inverse of git archive. Adds a new commit from an archiveor the filesystem.
+jsongit                   - Git for JSON
+
+git_credit                - A pretty way to show committer stats for git repos
+gin                       - Git index file parser
+git-rv                    - Code review tool for git and Rietveld
+
+gitzebo                   - A minimal git management web application.
+fedmsg_genacls            - A fedmsg consumer that sets gitosis acls in response to pkgdb messages
+
+gitserver                 - git server
+syncloud-gitbucket        - GitBucket app
+edi                       - A tool for quickly opening files deep in your git repo with a minimum of keystrokes.
+wsgitools                 - useful middlewares and filters for wsgi as well as scgi servers
+
+sped                      - Biblioteca para geração dos arquivos do Sistema Público de Escrituração Digital (SPED) para Python.
+
+gitdh                     - Tool to automatically deploy git commits using post-receive hooks and cron jobs
+signalbox                 - Run longitudinal studies and randomised trials over the web and telephone.
+vecnet.emod               - Python package for loading EMOD weather files, store the data in memory so that it can be modified, and saves the data to weather files. Allows for conversions between nodeIDs and latitude and longitude pairs.
+twitter.common.git        - twitter.common library for interacting with Git.
+pifacedigitalio           - The PiFace Digital I/O module.
+git-pre-commit-hook-utils - utils for implementing git pre-commit hook
+gitpass                   - Gitpass is an extension of the Python standard library's getpass, designed for keeping passwords out of your git repository.
+pontoon                   - A Python CLI for Digital Ocean
+ed25519ll                 - A low-level ctypes wrapper for Ed25519 digital signatures.
+
+afapi                     - A Python wrapper for interacting with AppFirst's APIs (v5)
+
+
+kabaret                   - Digital Creation Studio Framework
+gitwalker                 - A tool for collecting data from git repositories.
+
+
+mtpl                      - scripts templates manager that use git
+fourdigits.recipe.stud    - Buildout recipe to install stud
+
+
+
+pathspec                  - Utility library for gitignore style pattern matching of file paths.
+tod                       - A simple dotfiles manager.  Uses symlinks and a git repo.
+dflat                     - a command line tool for working with dflat digital preservation file systems
+
+
+
+
+githooks                  - Set of Git hooks for pep8, pyflakes, jslint and trac integration
+GitMon                    - GitMon - The Git Repository Monitor
+joe                       - joe generates .gitignore files from the command line for you.
+logit                     - A private log for humans
+
+audiolazy                 - Real-Time Expressive Digital Signal Processing (DSP) Package for Python!
+bull                      - Digital goods payment processing made simple
+gitapi                    - Python API to Git using the command-line interface
+  INSTALLED: 1.0.1
+  LATEST:    1.1.0a2
+pyzap                     - Python wrapper library for ZapLib digital television (DVB) tuning library.
+ignore                    - Download .gitignore files for a given language
+
+
+pypeople                  - Commandline vCard editor in Python, with git syncing
+
+
+
+Hostery                   - Pushes git snapshots to a webhost.
+git-deb                   - Bring any Debian package to Git
+git-count                 - It counts commits in each day, week, month or year.
+
+
+gistore                   - Backup system using DVCS backend, such as git
+binstr                    - Utility functions for strings of binary digits
+cpthook                   - Centrally manage hooks for git repositories
+
+
+gitlink                   - Git sub-command for getting a repo browser link to a git object
+LiveCode                  - Live sync your local code in Git repository to remote development server via rsync.
+
+
+
+
+git-repo-hooks            - A tool to manage project, user, and global Git hooks for multiple git repositories
+committer                 - Unified command line interface for git, mercurial and subversion.
+
+
+cs.argitalpena            - UNKNOWN
+
+
+
+git-orm                   - object-relational mapper for the git object store
+praekelt-python-gitmodel  - UNKNOWN
+vcssshd                   - Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git)
+idstring                  - a class for compact alpha-numeric serial numbers with a check digit
+
+
+
+or sequence of sequences, into either an Excel spreadsheet or
+CSV file formatted for Excel, depending on the amount of data.
+
+git-repo-manager          - A simple library that helps you manage your git repos
+
+
+
+
+git-tessera               - git intransic issue tracking
+doto                      - Python Interface to Digital Ocean
+coded4                    - Time-based statistics for Git and Hg repositories
+
+GitWeb                    - WSGI application to serve a git repository
+
+fourdigits.chosen         - Integrates the Chosen javascript library in Plone
+
+digital-organism-simulation-environment - Digital Organism Simulation Environment (DOSE)
+
+ConfigIt                  - Python Configurations
+gitnotifs                 - notification scripts/module for git repositories
+giturlparse.py            - A Git URL parsing module (supports parsing and rewriting)
+
+
+poseidon                  - DigitalOcean API v2 with SSH integration
+
+GitSyncLib                - GitSyncLib is a library that supports GitSync.
+pyrpo                     - A shell command wrapper for hg, git, bzr, svn
+
+
+gitbranchhealth           - A tool for determining the health of branches in a git repository
+buildbot-gitlab           - Enhances a BuildBot installation to nicely integrate with GitLab
+gitcoach                  - Help you find out what files you should be changing.
+GitLayer                  - GitLayer rendering tools and development server.
+wsgitemplates             - A series of templates for use in creating WSGI applications
+ut61e                     - Connect your Digital Multimeter Uni-T UT61E with Python!
+
+git-upstream              - git tool to help manage upstream repositories
+
+
+sact.recipe.gitrepository - Buildout recipe for fetching sources in a git repository
+
+
+
+git-branchdescriptions    - git-branchdescriptions
+GitSync                   - Use git to sync a project directory on an OS X client with a remote server.
+js.jqueryui_tagit         - Fanstatic packaging of Tag-it!
+
+
+
+
+GraphGit                  - Git repository graph generator
+
+
+
+autogit                   - autosave using git
+
+
+
+pyRegurgitator            - pyRegurgitator - Tools for analysing python code
+
+
+gig                       - Generate .gitignore templates from the command line
+CydraGitServerGlue        - Cydra plugin for ssh-based repository serving
+
+fuggit                    - For managing that one annoying remote file you can't put under version control
+gitshelf                  - Manage a shelf full of git repos
+git-remote-couch          - a git-remote-helper that allows you to push source code into a CouchDB
+
+
+ReversionUp               - ReversionUp
+
+gpolyline                 - Converts a series of latitude/longitude points to an encoded string for use with Google Maps
+git-py                    - Python bindings for the Git source control system
+
+nebpack                   - Store annotations in Git repositories.
+gitzilla                  - Git-Bugzilla integration
+git-search-replace        - a utility on top of git for project-wide search-and-replace that includes filenames too
+git-archive               - Go back into the git archive
+git-playback              - A git command to play back file history.
+
+assemblycoins             - Digital Tokens on the Bitcoin Blockchain
+git-change                - Git command to create and manage Gerrit Code Review changes
+
+
+fabula                    - An Open Source Python Game Engine suitable for adventure, role-playing and strategy games and digital interactive storytelling.
+git-bigfile               - git-bigfile allows you to use Git with large files without storing the file in Git itself
+gitflow                   - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+gclient                   - Meta-checkout tool managing both subversion and git checkouts.
+promus                    - Remote manager to handle git commands.
+
+
+pybagit                   - A library for dealing with BagIt packages.
+niteoweb.jvzoo            - Integrates JVZoo digital products retailer system with Plone for paid memberships.
+
+hotfilefinder             - Finds the hottest files in a git repo
+powerline-gitstatus       - A Powerline segment for showing the status of a Git working copy
+
+noaa                      - Python Bindings to the NOAA National Digital Forecast Database (NDFD)
+TwistedGit                - Twisted-based implementation of the network protocols supported by git (git://, ssh:// and http://)
+kabaret.studio            - Complete implementation of a digital creation studio using the kabaret framework.
+
+
+
+
+gitolite-sshkey-form      - Webapp for collecting and managing public keys
+fourdigits.portlet.keywordrelated - A portlet showing related items, based on the current contexts tags.
+vdt.version               - Version Increment Tool for GIT
+brigit                    - Very simple git wrapper module
+gitpress                  - Blissful blogging for hackers.
+jtime                     - Jira time tracking tool built on the command line to take context from your various git repositories.
+git2mine                  - A python application aimed to make easier the tedious task of logging time for Redmine tasks by extracting information from GIT commits comments
+vat_moss                  - Tools for VAT MOSS and Norway VAT on digital services.
+gitbox                    - Simple and automatically sync deamon for git repositories. A dropbox alternative.
+
+
+
+
+
+
+kr-GitPython              - Python Git Library
+git-meta                  - Git reposiroties manager
+pyver                     - Git-based versioning for Python tools and modules.
+
+gitversion                - Utility to get the git version of a package.
+
+setupext-gitversion       - PEP-440 compliant versioning helper
+
+releaselog                - Generate release notess from git commit logs.
+dcitools                  - Digital Cinema related collection of tools for Python
+
+datastore.git             - git datastore implementation
+git-sweep3k               - Clean up branches from your Git remotes
+incf.dai                  - Python API for the INCF Digital Atlasing infrastructure
+
+
+
+
+GitPrompt                 - Display git repository information in a command prompt.
+
+gitshelve                 - Python object for easily writing scripts that store arbitrary data inside a Git repository.
+cvs2svn                   - CVS to Subversion/git/Bazaar/Mercurial repository converter
+
+
+gitlsfiles                - DEPRECATED: this package was replaced by setuptools_git
+
+
+
+
+
+
+pydigitemp                - Python implementation of 1-Wire protocol
+gitrecipe                 - Simple buildout recipe for downloading git repositories. It uses system git command and its syntax
+dopysl                    - Digital Ocean PYthon client that Sucks Less
+
+
+
+GitResultsManager         - The GitResultsManager Python module and scripts (resman) for keeping track of research results using Git.
+dirtools                  - Exclude/ignore files in a directory (using .gitignore like syntax), compute hash, search projects for an entire directory tree and gzip compression.
+fab-polish                - Polish git versioned source code using Fabric
+batfish                   - A DigitalOcean shell, API and CLI interface
+
+digitalocean-api          - Python wrapper for Digital Ocean API v2
+dgbuild                   - Build Docker containers based on git tags
+
+
+statkey                   - A simple script to make the commands 'git status'/'git diff' or 'hg status'/'hg diff' run with a one key command - the s key.
+giturl.py                 - A tool for parsing all sorts of Git URLs
+gitwrapper                - A library to access Git repositories by wrapping system calls to the git binary
+minnowswithmachineguns    - A utility for arming (creating) many minnows (digital ocean instances) to attack (load test) targets (web applications). Based on beeswithmachineguns
+gitconfig                 - Python interface for git config files
+
+pushroulette              - Plays a random 5 second clip from soundcloud for every git push
+
+
+git_deploy                - Tool to manage using git as a deployment management tool
+hashedwords               - A module that converts hexadecimal digits into strings of words, and back
+
+
+ymci-ext-source-git       - Git source plugin for ymci
+tvt-test-vector-transformer - Translate digital test vectors for automated test equipment for semiconductors
+
+git-pick-from             - Text user interface for git cherry-pick
+git-os-job                - Show the OpenStack job logs for a commit
+teamcontrol               - Simple script to be used as the --to-cmd/--cc-cmd parameter on git's send-email command.
+git-tree                  - List contents of git in a tree-like format
+
+pygitflow-avh             - Pythonic Installer for Git Flow (AVH Edition).
+digitalocean-python       - Python wrapper for the DigitalOcean API v2
+git-lab                   - sub-command of git for access to gitlab
+GitServerGlue             - Twisted-based implementation of the network protocols supported by git (git://, ssh:// and http://)
+gitli                     - Simple issue management for git
+gitgud                    - Git Gud - a utility for when you are told to 'get good'
+
+
+Kallithea                 - Kallithea is a fast and powerful management tool for Mercurial and GIT with a built in push/pull server, full text search and code-review.
+damm                      - Computing the Damm check digit
+gitric                    - the simplest possible git-based blue/green deployment framework for fabric
+Geohash                   - Module to decode/encode Geohashes to/from latitude and longitude.  See http://en.wikipedia.org/wiki/Geohash
+
+digitalnz                 - Interact with the Digital New Zealand API
+vcsserver                 - Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git)
+
+
+ipylogue                  - Save the history of your IPython notebooks with git
+gitobox                   - Synchronizes a directory with a Git repository; particularly useful to track "dumb" collaboration software like DropBox
+
+scikit-commpy             - Digital Communication Algorithms with Python
+git-remote-hg             - access hg repositories as git remotes
+nose-test-select          - .gitignore style test selection for nose (file and method name globbing)
+
+gitpull                   - A python script for batch-pull git repos
+gitbucket                 - GitBucket
+vdt.versionplugin.gitchain - Instead of building packages as a freezed state, propagate tags between git repositories.
+freedom                   - A pure-python git and pypi release management tool
+
+PySPED                    - PySPED is a library to implement all requirements of the public system of bookkeeping digital
+git-vendor                - Vendor tagged releases from git to $VCS
+git-ls-date               - git-ls-date is git sub command shows first and last commit date.
+
+
+
+
+
+
+Tamia                     - A wrapper for pygit2
+
+gitrisk                   - A tool for determining which tickets included in a merge might be at risk of regressions
+
+
+
+
+digipy                    - a cool demo for Montreal Python 6 to do real time digits recognition using Machine Learning and good Features
+MapGitConfig              - Git Config Wrapper
+gitdata                   - Storage the data files in ssh servers
+thingitwrapper            - Wrapper for git command line tool. For now functionality is limited to git commands needed for git-aflow project.
+git-clone-canonical       - git clone popular repos by name not location
+pyGitDeploy               - UNKNOWN
+ws.gitpersona             - Provides an easy way to configure git username on a per repository basis.
+m3-xmldsig                - Sign and verify RSA-SHA1 XML Digital Signatures
+LibForensics              - Framework for developing digital forensic applications
+
+
+
+git-cachecow              - Cache git clone and git submodules in a cache directory.
+modulus11                 - Compute modulus 11 check digit for TNT consignements tracking number
+
+git-multimail             - Send notification emails for git pushes
+gitpress-api              - The core API for accessing Gitpress content repositories.
+fourdigits.pfg.activationcode - A PFG field to provide a list of activation codes and let PFG check them when submitting a form
+
+
+restoregithooks           - restore repo(s) git hooks from git template hooks
+pygitflow                 - Pythonic Installer for Git Flow.
+
+
+longitude                 - 
+git_logparser             - Library to parse Git Logs
+git-cl                    - git extension for interaction with rietveld
+mrgit.web                 - mrgit.web
+baluhn                    - A base-agnostic implementation of the Luhn Algorithm for Python. Useful for generating and verifying check digits.
+
+TracGitLocation           - Provide links to the actual URLs of Git-dwelling items
+
+
+
+checkouts                 - report versions of modules in git repos
+
+
+
+
+
+gitsniffer                - Find git repos where they live. In the CLOOUUD
+
+
+
+pmpd                      - pmpd [puhmp-eed] is a command line interface to deploy projects that use git.
+sgit                      - Small wrapper for performing git commands on nested repositories in subdirectories
+rungithook                - run git repo/template hook
+numtod                    - This converts numbers into strings od digits made from | and / and _
+
+immaterial-digital-labor  - Stuff related to the Immaterial Digital Labor group
+Pyjamas-GitWeb            - Web and Desktop (standalone application) Git repository browser
+gitserve                  - A helper tool for git that mimics mercurial's serve command
+mgit                      - Runs any git command across all repositories beneath a given directory
+xGitGitlab                - gitlab for git
+git-eval                  - A git-based code review, build and testing toolkit
+
+Time2Pull                 - Get notified when your remote git repository got updated!
+repos                     - Batch Git repository manager
+
+
+
+Gitlib                    - Pythonic low-level Git library
+spreads                   - Book digitization workflow suite
+
+
+
+DGEclust                  - Hierarchical non-parametric Bayesian clustering of digital expression data
+
+
+egggitinfo                - Plants some git-related data into the .egg-info directory of a python package.
+
+gitorious-mrq-monitor     - Monitor Gitorious merge requests over IRC
+Protea                    - Ashly digital audio products RS-232 interface library
+prefsync                  - A little tool to help synchronize Mac OS X plist files
+    (used for preferences for most Mac Apps) seamlessly, in a way that can
+    be tracked by git.
+octomotron                - A tool for rapid deployment of multiple evluation copies of a web application based on different git branches.
+
+
+
+
+pygit                     - Pythonic bindings for git
+  INSTALLED: 0.1 (latest)
+
+groundstation             - A decentralised git syncronisation engine
+
+gitkeeper                 - Python Server for GitKeeper.org
+
+
+invenio                   - Invenio digital library framework
+py_1digit_checksum        - Several 1-digit checksum algorithms
+zgitignore                - Check if a file is ignored by a .zgitignore file, compatible with .gitignore syntax
+
+CydraTwistedGit           - Cydra plugin for ssh-based repository serving
+pylms                     - PyLMS (Python Logitech Media Server API Library)
+pyignore                  - parse .gitignore file
+
+
+githome                   - A tiny server for your git repositories, allowing configurable levels of access for multiple users.
+
+
+git-get-merge             - A git command to find the merge that introduced a given commit.
+
+Postcodes                 - A simple library for getting access to UK Postcode data,including latitide and longitude and administrative information. You can also search for other postcodes withina distance of a point or other postcode.
+
+
+
+wsgithumb                 - helpers to get a WebOb response to serve static files and thumbnails in an efficient way
+
+
+giki                      - a Git-based wiki
+
+solidpinball              - A digital fabrication framework for pinball machines using Python
+kr-smmap                  - A pure git implementation of a sliding window memory map manager
+
+
+
+Pegit                     - peg: Python Easy-modo Git + ticketing
+git-covdiff               - Highlight newly appeared coverage missing in latest changeset in git.
+
+g5mouse                   - A pure python code to control logitech G3,G5,G7,G9 mouse on linux
+digitalocean_to_sshconfig - automatically add your droplets into your ssh config.
+exiflow                   - A set of tools including a little GUI to provide a complete digital photo workflow for Unixes, using EXIF headers as the central information repository.
+
+
+
+HP3478A                   - HP3478A HP-Agilent multimeter 5.5 digit with GPIB.
+smmap-kr-fix              - A pure git implementation of a sliding window memory map manager
+
+gitgrepper                - A git batch processing and grepping tool
+ptree                     - ptree is a minimal implementation of PairTree, which is a filesystem
+convention from the digital preservation community for mapping
+identifiers to file system locations, and vice versa.
+
+See https://confluence.ucop.edu/display/Curation/PairTree for more details.
+gitcheck                  - Check multiple git repository in one pass
+
+
+pypail                    - Access the Digital Ocean API with Python scripts
+git-hub                   - 
+gitube                    - Gitube is a simple git repository management web application can be deployed on your own server.
+
+invenio-client            - Invenio-Client permits to connect to remote Invenio digital library instances.
+
+finx                      - Fetch information from local Git Repositories
+git-subdirs               - Small wrapper for performing Git commands on nested repositories in subdirectories
+shelve                    - Shelve changes for source code repositories similar to `git stash`.
+
+
+
+
+
+
+python-blogpit            - Blogpit a Git based blog storage backend
+gitignore                 - parse .gitignore files
+
+hit                       - Yet another command-line wrapper for Git.
+
+pgit                      - Git Commandline Tools written in Python
+gitcls                    - Python wrapper for Mac OS defaults command
+
+
+glhooks                   - Service for automatic updating of git repositories from GitLab.
+MyTARDIS                  - Next iteration of the TARDIS framework. No digital repository required. Federated web stores + ftp access instead.
+homeslice                 - Home directory / dotfile / rcfile management with git.
+
+
+
+
+
+
+
+git-in-python             - rewrite git in python
+
+
+gkeeper                   - Git based version manager
+
+
+crumb                     - Track arbitrary metrics across the git commits of a program
+
+
+docker-registry-driver-git - Docker registry backend git driver
+bricklayer                - A package builder that watch git repositories
+
+git-mnemonic              - Human friendly git hashes
+RRDigitalOcean            - digital ocean api
+pygitignore               - A python module for working with .gitignore
+
+
+
+git-sweep                 - Clean up branches from your Git remotes
+
+dulwich-windows           - Python Git Library
+
+
+grit                      - Grit is a simple git repo manager with limited remote object proxying, a http back-end and simple cli.
+foonitidigital            - Testing the app
+gitolite-manager          - Manage gitolite's configuration files and ssh keys
+
+shadow-folder             - Manage a git-backed metadata-capable shadow copy of a folder.
+gitstatus                 - Support the git operate.
+release_path              - Tools to manage a git release path
+
+
+
+
+
+
+
+giturl                    - git remote url management command line tool
+git-discuss               - Git extension for discussion, mostly for code review, comments will be stored within the repository itself.
+gitpush                   - python module and shell script for git push sugar
+gittalk                   - talk with git
+git-dlist                 - Small tool to keep a directory of git repositories in sync.
+repostack                 - Keep track of all your git repositories.
+
+
+
+
+
+
+
